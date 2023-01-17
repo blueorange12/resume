@@ -1,1 +1,1 @@
-[# resume web-site](ttps://blueorange12.github.io/resume/)
+[# resume WebPage](ttps://blueorange12.github.io/resume/)
